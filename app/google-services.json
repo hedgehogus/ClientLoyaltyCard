@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "269736877304",
+    "firebase_url": "https://clientapp-c8f48.firebaseio.com",
+    "project_id": "clientapp-c8f48",
+    "storage_bucket": "clientapp-c8f48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269736877304:android:a309168e49f5b5d8",
+        "android_client_info": {
+          "package_name": "com.app.hedgehog.clientapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269736877304-3qpjauat6mcfs7hjck6bejk95p77020s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBACpFmpkc0v5ESa2vWPGwcJbemOzcx9pk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
