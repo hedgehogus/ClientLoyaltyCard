@@ -6,7 +6,10 @@
     <string name="authorization">Авторизация</string>
     <string name="registration">Регистрация нового пользователя</string>
     <string name="enter">Войти</string>
-    <string name="name">Имя</string>
-    <string name="second_name">Фамилия</string>
-    <string name="phone_number">Номер телефона</string>
+    <string name="name">Имя:</string>
+    <string name="second_name">Фамилия:</string>
+    <string name="phone_number">Номер телефона:</string>
+    <string name="registration_title">Регистрация</string>
+    <string name="ok">ОК</string>
+    <string name="field_required">Обязательное поле</string>
 </resources>
